@@ -42,4 +42,4 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-[Initial Idea From](https://www.youtube.com/watch?v=gs0FNQR0njI&ab_channel=AlexTheAnalyst)
+[Initial Idea](https://www.youtube.com/watch?v=gs0FNQR0njI&ab_channel=AlexTheAnalyst)
