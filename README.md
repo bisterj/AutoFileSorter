@@ -29,7 +29,7 @@ Shouldn't need much, very simple!
 ## Authors
 
 * Jakob Bister
-  * [Email Me For Any Questions](jbister364@gmail.com)
+  * [Email Me For Any Questions](https://jbister364@gmail.com)
 
 ## Version History
 
